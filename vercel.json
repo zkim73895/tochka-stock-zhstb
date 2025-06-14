@@ -4,41 +4,5 @@
             "src": "main.py",
             "use": "@vercel/python"
         }
-    ],
-    "builds": [
-        {
-            "src": "consumer.py",
-            "use": "@vercel/python"
-        }
-    ],
-    "builds": [
-        {
-            "src": "database.py",
-            "use": "@vercel/python"
-        }
-    ],
-    "builds": [
-        {
-            "src": "dependencies.py",
-            "use": "@vercel/python"
-        }
-    ],
-    "builds": [
-        {
-            "src": "messaging.py",
-            "use": "@vercel/python"
-        }
-    ],
-    "builds": [
-        {
-            "src": "requirements.py",
-            "use": "@vercel/python"
-        }
-    ],
-    "builds": [
-        {
-            "src": "schemas.py",
-            "use": "@vercel/python"
-        }
     ]
 }
